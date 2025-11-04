@@ -1,4 +1,6 @@
 //code for counting the even odd numbers and their sum of array elements
+//beigner code wirrting by vedant chougale
+//04/11/2025
 
 #include<stdio.h>
 #include<conio.h>
@@ -29,4 +31,5 @@ void main()
     printf("\ntheir addtion is %d and their average is %d",sum,sum/e);
     printf("\nthe odd numbers between this count is %d ",o);
     printf("their addtion is %d and their average is %d ",add,add/o);
+
 }
